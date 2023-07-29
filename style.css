@@ -74,16 +74,10 @@ body{
     z-index: 1;
     top: 50%;
     transform: translateY(-50%);
+    animation: slide-back 0.4s;
 }
 .light #switch button{
-    
-    background:  white (--switch--bg-url) no-repeat center;
-    position: absolute;
-    right: 0;
-    left: initial;
-    z-index: 1;
-    top: 50%;
-    transform: translateY(-50%);
+    animation: slide 0.4s forwards;
 }
 #switch span{
     display: block;
@@ -161,3 +155,19 @@ footer{
     font-weight: 400;
 }
 
+@keyframes slide{
+    from{
+        left: 0;
+    }
+    to{
+        left: 50%;
+    }
+}
+@keyframes slide-back{
+    from {
+        left: 50%;
+    }
+    to{ left: 0;
+    
+    }
+}
