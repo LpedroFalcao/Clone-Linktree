@@ -7,7 +7,7 @@
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --text-color: white;
-    --bg:url(/assets/bg.jpg);
+    --bg :black;
     --switch--bg-url: url(./assets/moon-stars.svg);
 }
 .light{
