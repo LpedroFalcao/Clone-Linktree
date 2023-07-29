@@ -41,5 +41,6 @@ Esse projeto está sob a licença MIT.
 Resumo:
 <p>O projeto de estudo consistiu em criar uma réplica funcional da interface do Linktree, utilizando as tecnologias web básicas: HTML, CSS e JavaScript. O objetivo principal do projeto foi desenvolver habilidades em front-end, manipulação do DOM e aprimorar o conhecimento em estilização de elementos usando CSS.</p>
 ---
+Deploy: https://LpedroFalcao.github.io/Clone-Linktree
 
 Feito com ♥ by Pedro :wave:
