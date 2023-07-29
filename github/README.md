@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="/assets/imgImg.png">
+  <img alt="License" src="/github/imgImg.png">
 </p>
 
 <br>
@@ -41,7 +41,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
+---
+Resumo:
+<p>O projeto de estudo consistiu em criar uma réplica funcional da interface do Linktree, utilizando as tecnologias web básicas: HTML, CSS e JavaScript. O objetivo principal do projeto foi desenvolver habilidades em front-end, manipulação do DOM e aprimorar o conhecimento em estilização de elementos usando CSS.</p>
 ---
 
 Feito com ♥ by Pedro :wave:
