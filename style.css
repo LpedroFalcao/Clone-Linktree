@@ -32,6 +32,7 @@ body{
     font-family: 'Inter', sans-serif;
     color: var(--text-color);
     background: var(--bg) no-repeat center/cover;
+    height: 100vh;
 
 }
 #container{
