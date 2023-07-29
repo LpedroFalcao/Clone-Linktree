@@ -7,13 +7,13 @@
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --text-color: white;
-    --bg:url(/assets/bg-mobile.jpg);
+    --bg:url(/assets/bg.jpg);
     --switch--bg-url: url(./assets/moon-stars.svg);
 }
 .light{
     --stroke-color: rgba(0, 0, 0, 0.50);
     --surface-color: rgba(0, 0, 0, 0.05);
-    --bg: url(/assets/bg-desktop-light.jpg);
+    --bg: white;
     --switch--bg-url: url(./assets/sun.svg);
     --text-color: black;
 }
@@ -57,16 +57,16 @@ body{
     position: relative;
     width: 64px;
     height: 24px;
-  
+    
     margin: 4px auto;
 }
 #switch button{
     width: 32px;
     height: 32px;
     background: white var(--switch--bg-url) no-repeat center;
-    border: 0;
+    
     border-radius: 50%;
-   
+    
     position: absolute;
     left: 0;
     z-index: 1;
