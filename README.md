@@ -1,46 +1,46 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">DevLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Exclusive and free program promoted by Rocketseat for teaching WEB technologies. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
-  <img alt="capa" src="/github/imgImg.png">
+  <img alt="cover" src="/github/imgImg.png">
 </p>
 
 <br>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-é um agregador de links para usar como cartão de visitas online.
+It's a link aggregator to use as an online business card.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). A [Figma](https://figma.com) account is necessary to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 ---
-Resumo:
-<p>O projeto de estudo consistiu em criar uma réplica funcional da interface do Linktree, utilizando as tecnologias web básicas: HTML, CSS e JavaScript. O objetivo principal do projeto foi desenvolver habilidades em front-end, manipulação do DOM e aprimorar o conhecimento em estilização de elementos usando CSS.</p>
+Summary:
+<p>The study project consisted of creating a functional replica of the Linktree interface, using basic web technologies: HTML, CSS, and JavaScript. The main goal of the project was to develop front-end skills, DOM manipulation, and enhance knowledge in styling elements using CSS.</p>
 ---
-Deploy: https://LpedroFalcao.github.io/Clone-Linktree
+Deployment: https://LpedroFalcao.github.io/Clone-Linktree
 
-Feito com ♥ by Pedro :wave:
+Made with ♥ by Pedro :wave:
